@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Subhamkonar84
+- 👋 Hi, I’m Subhamkonar84
 - 👀 I’m interested in ...computers
-- 🌱 I’m currently learning ...cyber security
-- 💞️ I’m looking to collaborate on ...nothing
+- 🌱 I’m currently learning ...software development,data analytics and machine learning
+- 💞️ I’m looking to collaborate on ... different projects related to my domain
 - 📫 How to reach me ...subhamkonar84@gmail.com
 
 <!---
